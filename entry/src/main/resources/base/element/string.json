@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "location_permission_reason",
+      "value": "Used to find nearby running destinations and plan routes on the map."
+    },
+    {
+      "name": "background_location_permission_reason",
+      "value": "Used to trigger geofence-based workout reminders while the app is in the background."
+    },
+    {
+      "name": "geofence_extension_desc",
+      "value": "Reacts to entering/leaving registered running destinations to auto-manage workout tracking."
+    }
+  ]
+}
