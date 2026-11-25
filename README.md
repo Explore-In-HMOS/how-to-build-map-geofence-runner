@@ -37,7 +37,7 @@ This codelab is **FULL CLOSE** on two Kits only — **MapKit** and **LocationKit
 ## Stack
 
 - **Languages**: ArkTS, ArkUI
-- **Frameworks**: HarmonyOS NEXT SDK (API 12+)
+- **Frameworks**: HarmonyOS SDK (API 12+)
 - **Tools**: DevEco Studio 5.0+
 - **Libraries**:
 - `@kit.MapKit` (`MapComponent`, `map`, `mapCommon`, `site`, `navi`) — map rendering, POI search, reverse geocoding, route planning, mass-point overlays.
@@ -92,7 +92,7 @@ entry/src/main/ets/
 
 ## Supported Devices
 
-- Huawei Watch 5 (HarmonyOS NEXT, round display)
+- Huawei Watch 5 (HarmonyOS, round display)
 - DevEco Studio Simulator
 
 This codelab targets a round wearable display (466×466) and has not yet been verified against a rectangular wearable form factor.
